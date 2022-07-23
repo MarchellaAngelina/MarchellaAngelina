@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marchella Angelina
-- 👀 I’m interested in (almost) everything!
-- 🌱 I’m currently learning ML
+- 👀 I’m interested in Data, Computer, and Fintech!
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: my personal email or linkedin
 
 <!---
