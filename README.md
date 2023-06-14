@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marchella Angelina
 - 👀 I’m interested in Data, Computer, and Fintech!
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: my personal email or linkedin
 
 <!---
